@@ -5,12 +5,12 @@ testing_suite = [
     "expected": [0, 1]
 },
 {
-    "name": "TwoSum #1",
+    "name": "TwoSum #2",
     "args": [[3, 2, 4],6],
     "expected": [1,2]
 },
 {
-    "name": "TwoSum #1",
+    "name": "TwoSum #3",
     "args": [[3, 3],6],
     "expected": [0, 1]
 }]
